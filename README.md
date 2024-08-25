@@ -30,7 +30,7 @@ This project provides a decentralized platform for issuing, transferring, and ve
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/microcredential.git
+   git clone https://github.com/CosmicAnkit/MicroCredential.git
    ```
 2. **Install Dependencies:**
    ```bash
