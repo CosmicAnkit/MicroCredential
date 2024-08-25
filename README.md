@@ -39,7 +39,7 @@ This project provides a decentralized platform for issuing, transferring, and ve
    ```
 3. **Compile and Deploy:**
    - Use Truffle or a similar tool to compile your smart contract and deploy it to your desired Ethereum network.
-   - Address of the contract:`0x5B38Da6a701c568545dCfcB03FcB875f56beddC4`
+   - Address:`0x5B38Da6a701c568545dCfcB03FcB875f56beddC4`
 
 
 
